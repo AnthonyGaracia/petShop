@@ -106,7 +106,7 @@ Orange : #F46036;
    font-family: "Anton", cursive;
  }
  #banner {
-   background-image: url ("../images/banner.jpg");
+   background-image: url("../images/banner.jpg");
    background-repeat: no-repeat;
    background-position: center top;
    width: 100%;
