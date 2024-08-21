@@ -92,7 +92,7 @@ Orange : #F46036;
     transition: all 250ms ease-out;
     text-decoration: underline;
  }
- #topMenu .log {
+ #topMenu .logo {
    float: left;
    padding-top: 13px;
    font-size: 24px;
@@ -141,7 +141,7 @@ Orange : #F46036;
  }
  .feature .leftColumn {
    width: 50%;
-   float:left;
+   float: left;
    text-align: center;
  }
  .feature .rightColumn {
@@ -178,8 +178,8 @@ Orange : #F46036;
    background-color: #333;
    height: 1px;
    border: 0;
-   width: 500px;
+   width: 50px;
 }
-.feature img {
+.featureImage img {
    width: 500px;
 }
