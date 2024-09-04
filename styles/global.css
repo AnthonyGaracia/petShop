@@ -34,13 +34,13 @@ Orange : #F46036;
  h2 {
     font-size: 30px;
  }
- .spacer .v20 {
+ .spacer.v20 {
     height: 20px;
  }
- .spacer .v40 {
+ .spacer.v40 {
     height: 40px;
  }
- .spacer .v80 {
+ .spacer.v80 {
     height: 80px;
  }
  .clear {
@@ -166,14 +166,14 @@ Orange : #F46036;
    text-decoration: none;
    border-radius: 30px;
 }
-.feature .leftColumn .text a:hover,
-.feature .rightColumn .text a:hover {
-   -webkit-transition: all 250ms ease-out;
-   -ms-transition: all 250ms ease-out;
-   transition: all 250ms ease-out;
-   background-color: #f46036;
-   text-decoration: none;
-   padding: 20px 40px;
+   .feature .leftColumn .text a:hover,
+   .feature .rightColumn .text a:hover {
+        -webkit-transition: all 250ms ease-out;
+        -ms-transition: all 250ms ease-out;
+        transition: all 250ms ease-out;
+        background-color: #f46036;
+        text-decoration: none;
+        padding: 20px 40px;
 }
 .feature hr {
    background-color: #333;
